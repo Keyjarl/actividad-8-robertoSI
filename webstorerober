@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Actividad 8</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la Actividad 8</h1>
+    </header>
+
+    <section>
+        <p>Este es un ejemplo de página HTML creada como parte de la actividad para GitHub.</p>
+        <p>Aquí aprenderemos a manejar ramas, realizar cambios en archivos y hacer merges.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Actividad 8 - Creado por Roberto</p>
+    </footer>
+</body>
+</html>
